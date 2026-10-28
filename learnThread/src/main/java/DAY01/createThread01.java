@@ -1,4 +1,4 @@
-package DAY01CreateThread;
+package DAY01;
 
 public class createThread01 {
     public static void main(String[] args) {
